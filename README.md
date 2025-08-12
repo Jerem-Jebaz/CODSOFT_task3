@@ -1,1 +1,2 @@
+# CODSOFT TASK 3: PASSWORD GENERATOR
 Task 3 for CODSOFT Python Internship
